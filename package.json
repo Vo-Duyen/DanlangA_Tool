@@ -1,0 +1,16 @@
+{
+  "name": "com.danlanga.tool",
+  "version": "1.0.0",
+  "displayName": "DanlangA_Tool",
+  "description": "Bộ công cụ hỗ trợ phát triển Unity của DanlangA.",
+  "unity": "2022.3",
+  "author": {
+    "name": "DanlangA",
+    "url": "https://github.com/Vo-Duyen/DanlangA_Tool.git"
+  },
+  "keywords": [
+    "tool",
+    "danlanga",
+    "editor"
+  ]
+}
